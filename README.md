@@ -1,6 +1,6 @@
 # marvin eisenberg
 
-Nach dem Abitur und der Ausbildung zum Fachinformatiker habe ich noch Lust aufs Studieren bekommen.
+Nach meinem Abitur und der abgeschlossenen Ausbildung zum Fachinformatiker für Systemintegration noch Lust aufs Studieren bekommen 🎓.
 
 ## Kurzprofil
 
