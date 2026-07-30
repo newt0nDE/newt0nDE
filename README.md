@@ -5,7 +5,7 @@ Nach meinem Abitur und der abgeschlossenen Ausbildung zum Fachinformatiker für 
 ## Kurzprofil
 
 - Fachinformatiker für Systemintegration  
-- Studium Angewandte Informatik (B.Sc., berufsbegleitend)  
+- B.Sc. Angewandte Informatik
 - Teamleitung Applikationen & Softwareentwicklung  
 
 ## Technischer Fokus
