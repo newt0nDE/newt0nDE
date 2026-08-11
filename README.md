@@ -1,4 +1,4 @@
-# marvin eisenberg
+# marvin pakull-eisenberg
 
 Nach meinem Abitur und der abgeschlossenen Ausbildung zum Fachinformatiker für Systemintegration noch Lust aufs Studieren bekommen 🎓.
 
